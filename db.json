@@ -1,0 +1,10 @@
+{
+  "battles": [
+    {
+      "id": 0,
+      "name": "mewtwo",
+      "url": "https://pokeapi.co/api/v2/pokemon/150/",
+      "battleTime": 1624462939
+    }
+  ]
+}
