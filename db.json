@@ -5,6 +5,306 @@
       "name": "mewtwo",
       "url": "https://pokeapi.co/api/v2/pokemon/150/",
       "battleTime": 1624462939
+    },
+    {
+      "name": "venusaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/3/",
+      "battleTime": 1624472115420,
+      "id": 1
+    },
+    {
+      "name": "wartortle",
+      "url": "https://pokeapi.co/api/v2/pokemon/8/",
+      "battleTime": 1624472134624,
+      "id": 2
+    },
+    {
+      "name": "machoke",
+      "url": "https://pokeapi.co/api/v2/pokemon/67/",
+      "battleTime": 1624472139118,
+      "id": 3
+    },
+    {
+      "name": "victreebel",
+      "url": "https://pokeapi.co/api/v2/pokemon/71/",
+      "battleTime": 1624472141110,
+      "id": 4
+    },
+    {
+      "name": "dodrio",
+      "url": "https://pokeapi.co/api/v2/pokemon/85/",
+      "battleTime": 1624472144402,
+      "id": 5
+    },
+    {
+      "name": "lapras",
+      "url": "https://pokeapi.co/api/v2/pokemon/131/",
+      "battleTime": 1624472147064,
+      "id": 6
+    },
+    {
+      "name": "dodrio",
+      "url": "https://pokeapi.co/api/v2/pokemon/85/",
+      "battleTime": 1624472144402,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "mewtwo",
+      "url": "https://pokeapi.co/api/v2/pokemon/150/",
+      "battleTime": 1624462939
+    },
+    {
+      "name": "ivysaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/2/",
+      "battleTime": 1624482976705,
+      "id": 9
+    },
+    {
+      "name": "charmander",
+      "url": "https://pokeapi.co/api/v2/pokemon/4/",
+      "battleTime": 1624483431199,
+      "id": 10
+    },
+    {
+      "name": "weedle",
+      "url": "https://pokeapi.co/api/v2/pokemon/13/",
+      "battleTime": 1624483437190,
+      "id": 11
+    },
+    {
+      "name": "weedle",
+      "url": "https://pokeapi.co/api/v2/pokemon/13/",
+      "battleTime": 1624483461286,
+      "id": 12
+    },
+    {
+      "name": "venusaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/3/",
+      "battleTime": 1624545844933,
+      "id": 13
+    },
+    {
+      "name": "charmeleon",
+      "url": "https://pokeapi.co/api/v2/pokemon/5/",
+      "battleTime": 1624546767412,
+      "id": 14
+    },
+    {
+      "name": "ivysaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/2/",
+      "battleTime": 1624546779888,
+      "id": 15
+    },
+    {
+      "name": "charizard",
+      "url": "https://pokeapi.co/api/v2/pokemon/6/",
+      "battleTime": 1624557223209,
+      "id": 16
+    },
+    {
+      "name": "charizard",
+      "url": "https://pokeapi.co/api/v2/pokemon/6/",
+      "battleTime": 1624563885119,
+      "id": 17
+    },
+    {
+      "name": "hypno",
+      "url": "https://pokeapi.co/api/v2/pokemon/97/",
+      "battleTime": 1624563887473,
+      "id": 18
+    },
+    {
+      "name": "hypno",
+      "url": "https://pokeapi.co/api/v2/pokemon/97/",
+      "battleTime": 1624563907029,
+      "id": 19
+    },
+    {
+      "name": "hypno",
+      "url": "https://pokeapi.co/api/v2/pokemon/97/",
+      "battleTime": 1624563910170,
+      "id": 20
+    },
+    {
+      "name": "hypno",
+      "url": "https://pokeapi.co/api/v2/pokemon/97/",
+      "battleTime": 1624563912249,
+      "id": 21
+    },
+    {
+      "name": "hypno",
+      "url": "https://pokeapi.co/api/v2/pokemon/97/",
+      "battleTime": 1624564731834,
+      "id": 22
+    },
+    {
+      "name": "hypno",
+      "url": "https://pokeapi.co/api/v2/pokemon/97/",
+      "battleTime": 1624564735309,
+      "id": 23
+    },
+    {
+      "name": "hypno",
+      "url": "https://pokeapi.co/api/v2/pokemon/97/",
+      "battleTime": 1624564737497,
+      "id": 24
+    },
+    {
+      "name": "hypno",
+      "url": "https://pokeapi.co/api/v2/pokemon/97/",
+      "battleTime": 1624564739464,
+      "id": 25
+    },
+    {
+      "name": "hypno",
+      "url": "https://pokeapi.co/api/v2/pokemon/97/",
+      "battleTime": 1624564743553,
+      "id": 26
+    },
+    {
+      "name": "hypno",
+      "url": "https://pokeapi.co/api/v2/pokemon/97/",
+      "battleTime": 1624564745051,
+      "id": 27
+    },
+    {
+      "name": "hypno",
+      "url": "https://pokeapi.co/api/v2/pokemon/97/",
+      "battleTime": 1624564748001,
+      "id": 28
+    },
+    {
+      "name": "hypno",
+      "url": "https://pokeapi.co/api/v2/pokemon/97/",
+      "battleTime": 1624564749132,
+      "id": 29
+    },
+    {
+      "name": "venusaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/3/",
+      "battleTime": 1624568190656,
+      "id": 30
+    },
+    {
+      "name": "squirtle",
+      "url": "https://pokeapi.co/api/v2/pokemon/7/",
+      "battleTime": 1624568195488,
+      "id": 31
+    },
+    {
+      "name": "charizard",
+      "url": "https://pokeapi.co/api/v2/pokemon/6/",
+      "battleTime": 1624568241371,
+      "id": 32
+    },
+    {
+      "name": "blastoise",
+      "url": "https://pokeapi.co/api/v2/pokemon/9/",
+      "battleTime": 1624568244789,
+      "id": 33
+    },
+    {
+      "name": "bulbasaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/1/",
+      "battleTime": 1624568892434,
+      "id": 34
+    },
+    {
+      "name": "charizard",
+      "url": "https://pokeapi.co/api/v2/pokemon/6/",
+      "battleTime": 1624568894844,
+      "id": 35
+    },
+    {
+      "name": "charizard",
+      "url": "https://pokeapi.co/api/v2/pokemon/6/",
+      "battleTime": 1624569515466,
+      "id": 36
+    },
+    {
+      "name": "nidoking",
+      "url": "https://pokeapi.co/api/v2/pokemon/34/",
+      "battleTime": 1624569642092,
+      "id": 37
+    },
+    {
+      "name": "charmander",
+      "url": "https://pokeapi.co/api/v2/pokemon/4/",
+      "battleTime": 1624632147764,
+      "id": 38
+    },
+    {
+      "name": "charizard",
+      "url": "https://pokeapi.co/api/v2/pokemon/6/",
+      "battleTime": 1624632152945,
+      "id": 39
+    },
+    {
+      "name": "charmander",
+      "url": "https://pokeapi.co/api/v2/pokemon/4/",
+      "battleTime": 1624633376512,
+      "id": 40
+    },
+    {
+      "name": "pidgeot",
+      "url": "https://pokeapi.co/api/v2/pokemon/18/",
+      "battleTime": 1624633380282,
+      "id": 41
+    },
+    {
+      "name": "pidgeotto",
+      "url": "https://pokeapi.co/api/v2/pokemon/17/",
+      "battleTime": 1624633382716,
+      "id": 42
+    },
+    {
+      "name": "ninetales",
+      "url": "https://pokeapi.co/api/v2/pokemon/38/",
+      "battleTime": 1624633387824,
+      "id": 43
+    },
+    {
+      "name": "charizard",
+      "url": "https://pokeapi.co/api/v2/pokemon/6/",
+      "battleTime": 1624633881928,
+      "id": 44
+    },
+    {
+      "name": "arcanine",
+      "url": "https://pokeapi.co/api/v2/pokemon/59/",
+      "battleTime": 1624633886899,
+      "id": 45
+    },
+    {
+      "name": "gyarados",
+      "url": "https://pokeapi.co/api/v2/pokemon/130/",
+      "battleTime": 1624633897237,
+      "id": 46
+    },
+    {
+      "name": "gyarados",
+      "url": "https://pokeapi.co/api/v2/pokemon/130/",
+      "battleTime": 1624633914306,
+      "id": 47
+    },
+    {
+      "name": "venusaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/3/",
+      "battleTime": 1624634181342,
+      "id": 48
+    },
+    {
+      "name": "venusaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/3/",
+      "battleTime": 1624635171506,
+      "id": 49
+    },
+    {
+      "name": "venusaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/3/",
+      "battleTime": 1624635172812,
+      "id": 50
     }
   ]
 }
